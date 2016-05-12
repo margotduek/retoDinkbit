@@ -5767,6 +5767,15 @@ button.close {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.logo-container-contact{
+  background-image:url("../images/header-contacto.jpg") ;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .logo-container-text p{
   padding-top: 18%;
   margin-bottom: 0%;
@@ -5805,6 +5814,14 @@ button.close {
   color: #38a9e4;
 }
 
+.general-text-2 h3{
+  padding-top: 2%;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 200%;
+  color: #38a9e4;
+}
+
 .general-text h4{
   padding-top: 2%;
   margin-top: 3%;
@@ -5821,6 +5838,12 @@ button.close {
   font-weight: bold;
   color: rgba(63, 60, 62, 0.8);
 }
+.general-text-2 p{
+  font-size: 125%;
+  font-weight: bold;
+  color: rgba(63, 60, 62, 0.8);
+}
+
 .general-text-b p{
   text-align: left;
   font-size: 125%;
@@ -5840,7 +5863,12 @@ button.close {
   margin-left: 7%;
   margin-right: 7%;
 }
-
+.central-c{
+  padding-top: 3%;
+  margin-bottom: 2%;
+  margin-left: 7%;
+  margin-right: 7%;
+}
 .central img{
   display: block;
   margin: auto;
@@ -5970,5 +5998,12 @@ button.close {
 {
   display: inline;
 }
-
+.input-spaces input{
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.input-group-btn {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
 /*# sourceMappingURL=app.css.map */

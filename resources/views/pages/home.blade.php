@@ -16,8 +16,8 @@
       </div>
     </div>
   </div>
-</section id="logos" >
-<section>
+</section>
+<section id="logos" >
   <div class="general-text central">
     <h3>lorem impsum titulum</h3>
     <p>

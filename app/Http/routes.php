@@ -15,11 +15,11 @@ Route::get('/', function()
 {
 	return View::make('pages.home'); // laravel 5 return View('pages.home');
 });
-Route::get('contact', function()
+Route::get('quote', function()
 {
 	return View::make('pages.quote'); // laravel 5 return View('pages.quote');
 });
 Route::get('contact', function()
 {
-	return View::make('contact.quote'); // laravel 5 return View('pages.contact');
+	return View::make('pages.contact'); // laravel 5 return View('pages.contact');
 });
