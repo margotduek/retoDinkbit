@@ -5885,6 +5885,27 @@ button.close {
   font-size: 110%;
   color: rgba(63, 60, 62, 0.8);
 }
+.general-text-3 table tr td{
+  font-weight: 200;
+  text-align: center;
+  font-size: 90%;
+  color: rgba(63, 60, 62, 0.8);
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.general-text-3 table tr th{
+  font-weight: 200;
+  text-align: center;
+  color: rgba(63, 60, 62, 0.8);
+  font-weight: bold;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+tr:nth-child(even){
+  background-color: #f2f2f2
+}
+
 .general-text p{
   text-align: center;
   font-size: 125%;
@@ -5933,7 +5954,7 @@ button.close {
 .central-d{
   margin-right: 7%;
   padding-top: 3%;
-  margin-bottom: 30%;
+  margin-bottom: 3%;
 }
 .central img{
   display: block;
@@ -6008,6 +6029,15 @@ button.close {
   padding-right: 9%;
   margin-top: 5%;
 }
+
+.quote-bullets ul{
+  list-style: none;
+  list-style-image: url('../images/sq-check.png');
+}
+.quote-bullets ul>li {
+  padding: 1% 0% 0% 1%;
+}
+
 .send-btn{
   font-size: 2em;
   width: 100%;
@@ -6137,7 +6167,10 @@ button.close {
   margin-top: 7%;
   margin-bottom: 15%;
 }
-
+.in-blue{
+  color: #38a9e4;
+  font-weight: bold;
+}
 
 
 

@@ -130,7 +130,7 @@
         </p>
       </li>
     </ul>
-    <button type="quote" class="btn btn-success center-block">Cotiza</button>
+    <a href="/quote"><button type="quote" class="btn btn-success center-block">Cotiza</button></a>
   </div>
 </section>
 
